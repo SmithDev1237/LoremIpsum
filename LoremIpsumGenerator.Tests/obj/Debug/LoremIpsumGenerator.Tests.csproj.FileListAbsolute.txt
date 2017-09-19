@@ -1,0 +1,9 @@
+C:\tfs3\LoremIpsumGenerator\LoremIpsumGenerator.Tests\bin\Debug\LoremIpsumGenerator.Tests.dll
+C:\tfs3\LoremIpsumGenerator\LoremIpsumGenerator.Tests\bin\Debug\LoremIpsumGenerator.Tests.pdb
+C:\tfs3\LoremIpsumGenerator\LoremIpsumGenerator.Tests\bin\Debug\LoremIpsumGenerator.dll
+C:\tfs3\LoremIpsumGenerator\LoremIpsumGenerator.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\tfs3\LoremIpsumGenerator\LoremIpsumGenerator.Tests\bin\Debug\LoremIpsumGenerator.pdb
+C:\tfs3\LoremIpsumGenerator\LoremIpsumGenerator.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\tfs3\LoremIpsumGenerator\LoremIpsumGenerator.Tests\obj\Debug\LoremIpsumGenerator.Tests.csprojResolveAssemblyReference.cache
+C:\tfs3\LoremIpsumGenerator\LoremIpsumGenerator.Tests\obj\Debug\LoremIpsumGenerator.Tests.dll
+C:\tfs3\LoremIpsumGenerator\LoremIpsumGenerator.Tests\obj\Debug\LoremIpsumGenerator.Tests.pdb

@@ -1,0 +1,5 @@
+C:\tfs3\LoremIpsumGenerator\LoremIpsumGenerator\bin\Debug\LoremIpsumGenerator.dll
+C:\tfs3\LoremIpsumGenerator\LoremIpsumGenerator\bin\Debug\LoremIpsumGenerator.pdb
+C:\tfs3\LoremIpsumGenerator\LoremIpsumGenerator\obj\Debug\LoremIpsumGenerator.csprojResolveAssemblyReference.cache
+C:\tfs3\LoremIpsumGenerator\LoremIpsumGenerator\obj\Debug\LoremIpsumGenerator.dll
+C:\tfs3\LoremIpsumGenerator\LoremIpsumGenerator\obj\Debug\LoremIpsumGenerator.pdb
