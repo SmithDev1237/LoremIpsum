@@ -3,3 +3,11 @@ C:\tfs3\LoremIpsumGenerator\LoremIpsumGenerator\bin\Debug\LoremIpsumGenerator.pd
 C:\tfs3\LoremIpsumGenerator\LoremIpsumGenerator\obj\Debug\LoremIpsumGenerator.csprojResolveAssemblyReference.cache
 C:\tfs3\LoremIpsumGenerator\LoremIpsumGenerator\obj\Debug\LoremIpsumGenerator.dll
 C:\tfs3\LoremIpsumGenerator\LoremIpsumGenerator\obj\Debug\LoremIpsumGenerator.pdb
+D:\Code\LoremIpsum\LoremIpsumGenerator\bin\Debug\LoremIpsumGenerator.dll
+D:\Code\LoremIpsum\LoremIpsumGenerator\bin\Debug\LoremIpsumGenerator.pdb
+D:\Code\LoremIpsum\LoremIpsumGenerator\obj\Debug\LoremIpsumGenerator.csproj.AssemblyReference.cache
+D:\Code\LoremIpsum\LoremIpsumGenerator\obj\Debug\LoremIpsumGenerator.csproj.CoreCompileInputs.cache
+D:\Code\LoremIpsum\LoremIpsumGenerator\obj\Debug\LoremIpsumGenerator.dll
+D:\Code\LoremIpsum\LoremIpsumGenerator\obj\Debug\LoremIpsumGenerator.pdb
+D:\Code\LoremIpsum\LoremIpsumGenerator\obj\Debug\LoremIpsumGenerator.Properties.Resources.resources
+D:\Code\LoremIpsum\LoremIpsumGenerator\obj\Debug\LoremIpsumGenerator.csproj.GenerateResource.cache

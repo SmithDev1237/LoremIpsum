@@ -7,3 +7,13 @@ C:\tfs3\LoremIpsumGenerator\LoremIpsumGenerator.Tests\bin\Debug\Microsoft.Visual
 C:\tfs3\LoremIpsumGenerator\LoremIpsumGenerator.Tests\obj\Debug\LoremIpsumGenerator.Tests.csprojResolveAssemblyReference.cache
 C:\tfs3\LoremIpsumGenerator\LoremIpsumGenerator.Tests\obj\Debug\LoremIpsumGenerator.Tests.dll
 C:\tfs3\LoremIpsumGenerator\LoremIpsumGenerator.Tests\obj\Debug\LoremIpsumGenerator.Tests.pdb
+D:\Code\LoremIpsum\LoremIpsumGenerator.Tests\bin\Debug\LoremIpsumGenerator.Tests.dll
+D:\Code\LoremIpsum\LoremIpsumGenerator.Tests\bin\Debug\LoremIpsumGenerator.Tests.pdb
+D:\Code\LoremIpsum\LoremIpsumGenerator.Tests\bin\Debug\LoremIpsumGenerator.dll
+D:\Code\LoremIpsum\LoremIpsumGenerator.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Code\LoremIpsum\LoremIpsumGenerator.Tests\bin\Debug\LoremIpsumGenerator.pdb
+D:\Code\LoremIpsum\LoremIpsumGenerator.Tests\obj\Debug\LoremIpsumGenerator.Tests.csproj.AssemblyReference.cache
+D:\Code\LoremIpsum\LoremIpsumGenerator.Tests\obj\Debug\LoremIpsumGenerator.Tests.csproj.CoreCompileInputs.cache
+D:\Code\LoremIpsum\LoremIpsumGenerator.Tests\obj\Debug\LoremIpsumGenerator.Tests.csproj.CopyComplete
+D:\Code\LoremIpsum\LoremIpsumGenerator.Tests\obj\Debug\LoremIpsumGenerator.Tests.dll
+D:\Code\LoremIpsum\LoremIpsumGenerator.Tests\obj\Debug\LoremIpsumGenerator.Tests.pdb

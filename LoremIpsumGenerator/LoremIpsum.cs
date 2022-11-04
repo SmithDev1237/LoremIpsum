@@ -2,21 +2,28 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace LoremIpsumGenerator
 {
     public static class LoremIpsum
-    {
-        public const string Path_To_Words = @"C:\\tfs3\\LoremIpsumGenerator\\LoremIpsumGenerator\\Words.txt";
+    {        
         public static string[] _words;
         public static Random _rnd = new Random();
 
         public static string Generate(int numParagraphs, bool htmlTags = false)
         {
-            var text = File.ReadAllText(Path_To_Words, Encoding.UTF8);
-            _words = text.Split(',');
+            var assembly = Assembly.GetExecutingAssembly();
+            string resourceName = assembly.GetManifestResourceNames().Single(str => str.EndsWith("Words.txt"));
+            using (Stream stream = assembly.GetManifestResourceStream(resourceName))
+            using (StreamReader reader = new StreamReader(stream))
+            {
+                string result = reader.ReadToEnd();
+                _words = result.Split(',');
+            }            
+            
             var generatedText = "";            
             var numSentencesInParagraph = _rnd.Next(2, 5);
 
